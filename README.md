@@ -8,8 +8,8 @@
 ![Web](https://github.com/RMTerayama/Conversor_bases_numericas/blob/main/assets/exemplo.png)
 ![Web](https://github.com/RMTerayama/Conversor_bases_numericas/blob/main/assets/opcoes.png)
 
-
-https://rmterayama.github.io/marioRunner/ 
+#Teste Agora:
+https://rmterayama.github.io/Conversor_bases_numericas/
 
 Um simples conversor de bases numericas, com 12 tipos de conversões diferentes. 
 Criei esse conversor para me auxiliarnos estudos para uma materia da faculdade, onde eu teria que realizar a conversão de numeros em diferentes bases.
