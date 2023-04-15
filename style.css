@@ -5,8 +5,8 @@
 body{
     width: 100vw;
     height: 100vh;
-    background: rgb(67,67,219);
-    background: linear-gradient(0deg, rgba(67,67,219,1) 18%, rgba(4,4,213,1) 95%);
+    background: rgb(68,68,255);
+    background: linear-gradient(0deg, rgba(68,68,255,1) 18%, rgba(19,19,180,1) 95%);
    
 }
 #formDiv{
@@ -25,7 +25,7 @@ form{
     height: 70vh;
     border-radius: 10px;
     align-items: center;
-    box-shadow: 10px 15px #0000002a;
+    box-shadow: 15px 20px #0000002a;
    
 }
 form h1{
@@ -83,3 +83,18 @@ input,select{
 .custom-shape-divider-top-1681441613 .shape-fill {
     fill: #FFFFFF;
 }
+@media only screen and (max-width: 768px) {
+    form{
+        width:80vw ;
+    }
+    #btn{
+        width: 10vw;
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+ /* For tablets: */
+    form{
+        width:70vw ;
+    }
+  } 
