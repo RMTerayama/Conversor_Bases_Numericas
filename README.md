@@ -1,8 +1,7 @@
 
 # marioRunner
 # mario-Learning-Page
-
-[![NPM](https://github.com/RMTerayama/Conversor_bases_numericas/blob/main/LICENSE.md)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RMTerayama/Conversor_bases_numericas/blob/main/LICENSE.md) 
 
 # Sobre o projeto
 
